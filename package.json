@@ -1,0 +1,28 @@
+{
+  "name": "mediaelement",
+  "version": "2.3.1",
+  "description": "HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johndyer/mediaelement.git"
+  },
+  "keywords": [
+    "video",
+    "audio",
+    "html5"
+  ],
+  "author": "John Dyer http://j.hn/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johndyer/mediaelement/issues"
+  },
+  "homepage": "https://github.com/johndyer/mediaelement",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-cssmin": "~0.7.0",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
